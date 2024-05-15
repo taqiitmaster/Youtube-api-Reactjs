@@ -1,0 +1,17 @@
+.main{
+    padding: 2rem;
+    background-color: red;
+    width: 100%;
+  height: 50px;
+}
+.main h1{
+    padding-left: 20rem;
+}
+.main input{
+    padding: 10px 50px;
+    border: 2px solid black;
+}
+.in{
+    margin-top: -60px;
+    padding-left: 40rem;
+}
